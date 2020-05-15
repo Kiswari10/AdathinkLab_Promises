@@ -1,0 +1,27 @@
+{
+  "name": "adathinklab_promises",
+  "version": "1.0.0",
+  "description": "Reto-pokemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiswari10/AdathinkLab_Promises.git"
+  },
+  "keywords": [
+    "pokemon",
+    "node",
+    "promise"
+  ],
+  "author": "Kiswari Martinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kiswari10/AdathinkLab_Promises/issues"
+  },
+  "homepage": "https://github.com/Kiswari10/AdathinkLab_Promises#readme",
+  "dependencies": {
+    "pokedex-promise-v2": "^3.2.0"
+  }
+}

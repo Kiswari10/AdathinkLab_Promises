@@ -1,6 +1,6 @@
 # AdathinkLab_Promises
 
-### Reto N°1
+## Reto N°1
 
 1ra clase de NodeJ - Bootcamp Adathink
 
@@ -26,8 +26,7 @@ Antes de ejecutar el programa, instale las dependencias:
 ###### Si necesita ayuda escriba en la terminal:
 
 ```
-      $ pokemon 
-       o
-      $ pokemon help
-
+  $ pokemon 
+    o
+  $ pokemon help
 ```

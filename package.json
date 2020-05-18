@@ -15,6 +15,9 @@
     "node",
     "promise"
   ],
+  "bin": {
+    "pokemon": "./cli.js"
+  },
   "author": "Kiswari Martinez",
   "license": "MIT",
   "bugs": {

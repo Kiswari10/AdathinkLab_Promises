@@ -23,7 +23,6 @@
   "homepage": "https://github.com/Kiswari10/AdathinkLab_Promises#readme",
   "dependencies": {
     "chalk": "^4.0.0",
-    "meow": "^7.0.1",
     "pokedex-promise-v2": "^3.2.0"
   }
 }

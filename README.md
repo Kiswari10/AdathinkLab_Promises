@@ -1,8 +1,8 @@
 # AdathinkLab_Promises
 
-## Reto N°1
+## Reto Práctico N°1
 
-1ra clase de NodeJ - Bootcamp Adathink
+1ra clase de Node.js - Bootcamp Adathink
 
 ### Uso CLI
 
@@ -10,19 +10,19 @@ Antes de ejecutar el programa, instale las dependencias:
 
 `$ npm install`
 
-##### Ejecutar de la siguiente manera a través de la terminal:
+#### Ejecutar de la siguiente manera a través de la terminal:
 
   ```
-    Usage
       $ pokemon <id or name>
- 
-    Examples
-      $ pokemon eevee
-      Pokémon: eevee
-      id: 133
-      tipos: normal
-      poderes: anticipation, adaptability, run-away
 ```
+##### Busqueda por nombre del pokémon
+
+![Resultado de pokémon por nombre](https://github.com/Kiswari10/AdathinkLab_Promises/blob/master/img/pokemonByName.png)
+
+##### Busqueda por id del pokémon
+
+![Resultado de pokémon por id](https://github.com/Kiswari10/AdathinkLab_Promises/blob/master/img/pokemonById.png)
+
 ###### Si necesita ayuda escriba en la terminal:
 
 ```
@@ -30,3 +30,4 @@ Antes de ejecutar el programa, instale las dependencias:
     o
   $ pokemon help
 ```
+![Resultado de ayuda](https://github.com/Kiswari10/AdathinkLab_Promises/blob/master/img/pokemonHelp.png)

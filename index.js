@@ -15,7 +15,7 @@ const searchPokemon = (value) => {
         abilities.push(element.ability.name)
       });
       log('')
-      log(chalk.gray.underline.bold('Información del Pokemon seleccionado'))
+      log(chalk.gray.underline.bold('Información del Pokémon seleccionado'))
       log('')
       log(chalk.cyan('Pokémon: ') + chalk.white(res.name));
       log(chalk.cyan('id: ') + chalk.white(res.id));
